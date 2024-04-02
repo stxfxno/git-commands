@@ -91,10 +91,18 @@ Comandos de git para clonacion y uso de repositorios
     <td>kill -9 (numero)</td>
     <td>Comando utilizado para enviar una señal a un proceso, por ejemplo, para detenerlo</td>
   </tr>
+  <tr>
+    <td>mysql --version</td>
+    <td>Muestra la versión de MySQL instalada en el sistema</td>
+  </tr>
+  <tr>
+    <td>sudo apt install mysql-server</td>
+    <td>Instala el servidor MySQL en el sistema</td>
+  </tr>
 
 </table>
 
-<img src="imagen0.jpg" alt="Descripción de la imagen">
+<img src="image0.png" alt="Descripción de la imagen">
 
 
 <hr>
