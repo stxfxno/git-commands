@@ -99,6 +99,10 @@ Comandos de git para clonacion y uso de repositorios
     <td>sudo apt install mysql-server</td>
     <td>Instala el servidor MySQL en el sistema</td>
   </tr>
+  <tr>
+    <td>show databases,.</td>
+    <td>Este comando muestra una lista de todas las bases de datos disponibles en el servidor MySQL al que estas conectando</td>
+  </tr>
 
 </table>
 
