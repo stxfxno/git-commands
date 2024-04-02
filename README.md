@@ -83,6 +83,15 @@ Comandos de git para clonacion y uso de repositorios
     <td>sudo apt install net-tools</td>
     <td>Instala herramientas de red adicionales, como netstat, en el sistema</td>
   </tr>
+  <tr>
+    <td>ps -eaf | grep ssh</td>
+    <td>Muestra los procesos en ejecución y filtra aquellos relacionados con SSH</td>
+  </tr>
+  <tr>
+    <td>kill -9 (numero)</td>
+    <td>Comando utilizado para enviar una señal a un proceso, por ejemplo, para detenerlo</td>
+  </tr>
+
 </table>
 
 <hr>
