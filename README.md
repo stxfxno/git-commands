@@ -51,6 +51,8 @@ Comandos de git para clonacion y uso de repositorios
   </tr>
 </table>
 
+<hr>
+
 <h2>Comandos Utilizados</h2>
 <table>
   <tr>
@@ -83,6 +85,7 @@ Comandos de git para clonacion y uso de repositorios
   </tr>
 </table>
 
+<hr>
 <h2>Otros Comandos Importantes</h2>
 <table>
   <tr>
