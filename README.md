@@ -94,6 +94,9 @@ Comandos de git para clonacion y uso de repositorios
 
 </table>
 
+<img src="imagen0.jpg" alt="Descripción de la imagen">
+
+
 <hr>
 <h2>Otros Comandos Importantes</h2>
 <table>
