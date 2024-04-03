@@ -108,6 +108,47 @@ Comandos de git para clonacion y uso de repositorios
 
 <img src="image0.png" alt="Descripción de la imagen">
 
+<hr>
+<h2>Comandos Sem 2 Clase 2</h2>
+<table border="1">
+  <tr>
+    <th>Comando</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td><code>vi</code></td>
+    <td>Abre el editor de texto Vi.</td>
+  </tr>
+  <tr>
+    <td><code>i</code></td>
+    <td>En el modo de inserción de Vi, permite insertar texto antes del cursor.</td>
+  </tr>
+  <tr>
+    <td><code>vi</code></td>
+    <td>Tecla 'esc' para salir del modo de inserción y volver al modo de comando en Vi.</td>
+  </tr>
+  <tr>
+    <td><code>:wq!</code></td>
+    <td>En el modo de comando de Vi, guarda los cambios y sale del editor sin preguntar si se han realizado cambios sin guardar.</td>
+  </tr>
+  <tr>
+    <td><code>cat askfkasf.txt</code></td>
+    <td>Muestra el contenido del archivo 'askfkasf.txt' en la terminal.</td>
+  </tr>
+  <tr>
+    <td><code>echo "" > aafafas.txt</code></td>
+    <td>Crea un archivo llamado 'aafafas.txt' si no existe, o trunca su contenido si ya existe, dejándolo vacío.</td>
+  </tr>
+  <tr>
+    <td><code>sudo grep -R bind /etc/mysql</code></td>
+    <td>Busca recursivamente la cadena "bind" en todos los archivos del directorio '/etc/mysql' utilizando el comando 'grep' con privilegios de superusuario ('sudo').</td>
+  </tr>
+  <tr>
+    <td><code>cat /etc/mysql/mysql.conf.d/mysqld.cnf | grep bind</code></td>
+    <td>Muestra las líneas del archivo '/etc/mysql/mysql.conf.d/mysqld.cnf' que contienen la cadena "bind" utilizando el comando 'grep' junto con 'cat'.</td>
+  </tr>
+</table>
+
 
 <hr>
 <h2>Otros Comandos Importantes</h2>
