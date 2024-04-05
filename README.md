@@ -1,3 +1,11 @@
+```python
+def suma(a, b):
+return a + b
+
+resultado = suma(3, 5)
+print("La suma es:", resultado)
+```
+
 # git-commands
 Comandos de git para clonacion y uso de repositorios
 <table>
