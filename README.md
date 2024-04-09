@@ -107,7 +107,7 @@ Comandos de git para clonacion y uso de repositorios
 
 </table>
 
-<img src="image0.png" alt="Descripción de la imagen">
+<img src="/imagenes/image0.png" alt="Descripción de la imagen">
 
 <hr>
 <h2>Comandos Sem 2 Clase 2</h2>
